@@ -1,7 +1,6 @@
 package pl.mkloska;
 
 import lombok.*;
-
 import javax.persistence.*;
 
 @Entity
