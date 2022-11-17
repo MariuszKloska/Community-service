@@ -1,0 +1,13 @@
+.Register {
+    padding: 60px 0;
+}
+
+.Register Form {
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+.Register button {
+    margin-top: 20px;
+    width: 320px;
+}
